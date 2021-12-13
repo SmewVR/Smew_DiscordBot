@@ -1,0 +1,7 @@
+discord==1.7.3
+youtube-dl==2021.6.06
+ffmpeg
+colorlog
+PyNaCl
+beautifulsoup4
+requests
