@@ -45,7 +45,7 @@ async def on_message(message):
             message.channel.id = 863322592835796992
 
 
-token = "ODU4Mzk4OTY0OTExMzA4ODIw.YNdkVQ.oFZU1BN-BOpeVt-XVQm21h9n350"
+token = ""
 
 @bot.command()
 async def love(x):
