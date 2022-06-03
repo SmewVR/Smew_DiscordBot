@@ -1,4 +1,6 @@
 # Smew_DiscordBot
+*requires github lfs 
+
 
 <h2> All the code needed to start a discord-bot with YouTube playability </h2>
 
